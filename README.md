@@ -1,8 +1,8 @@
 # testcase
 
-Инструменты: Python+Selenium+pattern PageObject
+Инструменты: <b>Python+Selenium+pattern PageObject</b>
 
-Задание выполнено частично, ввиду его обьема и отсутствия времени
+Задание выполнено частично, ввиду его обьема и отсутствия времени<br>
 Сделано:
 
 Сценарий 1:
@@ -18,4 +18,4 @@
 Тесты запускаются по понедельникам, средам и пятницам в 14-00, 18-00 и 23-00 при помощи Jenkins, Но по моему мнению, на Windows, проще делать это через bat или powershell 
 Также для подобных заданий не обязательно использовать pattern PageObject
 
-Видео демострации здесь https://drive.google.com/open?id=1mNsQL01RLFrwXM5ZAskoCnENcZf6IR-b
+<b>Видео демострации здесь</b> https://drive.google.com/open?id=1mNsQL01RLFrwXM5ZAskoCnENcZf6IR-b
